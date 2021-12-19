@@ -63,7 +63,7 @@ def WORDLIST():
 def ENCRYPTER():
    pass
    print("**********************************************")
-   print("WORDLIST GENERATOR HAS BEEN SELECTED.")
+   print("HASH ENCRYPTER HAS BEEN SELECTED.")
    call(["python", "subprocess_for_encrypter.py"])
 
 def DECRYPTER():
